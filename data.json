@@ -1,0 +1,14 @@
+{
+    "information" : [
+        {"date" : "2020-01-01", "description": "movie", "amount": 786, "paid_by" : "you", "logo":"local-movies"},
+        {"date" : "2020-02-02", "description": "dinner", "amount": 2234, "paid_by" : "jacob", "logo":"restaurant"},
+        {"date" : "2020-02-03", "description": "date night", "amount": 1587, "paid_by" : "you", "logo":"wine-bar"},
+        {"date" : "2020-03-04", "description": "movie", "amount": 1587, "paid_by" : "you", "logo":"wine-bar"},
+        {"date" : "2020-03-05", "description": "date night", "amount": 987, "paid_by" : "jacob", "logo":"wine-bar"},
+        {"date" : "2020-03-06", "description": "dinner", "amount": 1587, "paid_by" : "jacob", "logo":"wine-bar"},
+        {"date" : "2020-04-02", "description": "date night", "amount": 587, "paid_by" : "you", "logo":"wine-bar"},
+        {"date" : "2020-04-08", "description": "movie", "amount": 1587, "paid_by" : "you", "logo":"wine-bar"},
+        {"date" : "2020-04-09", "description": "date night", "amount": 687, "paid_by" : "jacob", "logo":"wine-bar"},
+        {"date" : "2020-04-10", "description": "date night", "amount": 1587, "paid_by" : "you", "logo":"wine-bar"}
+        ]
+}
